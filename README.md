@@ -7,7 +7,7 @@ The use of different sensory equipment on vehicles, handrails, and structures at
 
 ## In terms of personal safety: 
 
-Emergency evacuation procedures should be designed with accessibility to ensure that everyone can safely evacuate the station in case of an emergency. Appropriate machine systems and procedures are in place to deal with medical emergencies, fires, equipment failures, and other potential hazards. Due to the confined environment of the space station, there is a need for better set-up for some emergency response equipment, such as fire extinguishers and medical supplies that need to be more accessible, ensuring the safe evacuation of people with disabilities.
+Emergency evacuation procedures should be designed with accessibility to ensure that everyone can safely evacuate the station in case of an emergency.Including assistive technology and communication tools, to support people with diverse abilities and backgrounds. Appropriate machine systems and procedures are in place to deal with medical emergencies, fires, equipment failures, and other potential hazards. Due to the confined environment of the space station, there is a need for better set-up for some emergency response equipment, such as fire extinguishers and medical supplies that need to be more accessible, ensuring the safe evacuation of people with disabilities.
 
 ## Humanities and Arts:
 The region encourages diverse and inclusive disability arts, wearable design and assistive design, with more inclusive art forms that inspire and facilitate people to express their differences and artistic language in different ways and to design assistive products that meet their own needs in life.
