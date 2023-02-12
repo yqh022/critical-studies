@@ -17,3 +17,6 @@ For people with disabilities it will no longer be a service for (supposedly) unf
 Design and technology for people with disabilities will be allowed to co-exist in society, rather than forcing one party to integrate and assimilate, judging by their ability.Technical staff to assist in the design of accessible spaces and meetings.
 
 There are times when the wealth of life experience is not available to the average specialist. Enabling people with disabilities to live independently and making disability and other forms of interdependence can be achieved by redesigning objects with representations of disability as an expression of challenging existing disability science.They will find crip knowing-making in the design and implementation of architectures, technologies, and infrastructures. 
+
+Based on the above preference will be given to people with strong interpersonal skills and the ability to work with others. This will require an assessment of these skills during the interview process.
+Emphasise diversity and inclusion training. Consider providing training and resources to support diversity and inclusion in the workplace. This could include training on cultural competency, unconscious bias, and disability sensitivity.
