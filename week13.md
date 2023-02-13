@@ -15,4 +15,13 @@ At the same time, I noticed that many photographs and paintings about female pow
 
 Including artificial intelligence and google's dream program in the back, new artistic approaches have gradually emerged with the development of digital technology.This can encourage visitors to question established categories and narratives and to develop new ways of understanding the world.
 
+The exhibition presents the changes in time and the development of the art form in a chronological order. Arranging the exhibits according to the changing cultural context is more objective and avoids getting bogged down in one's own interpretation, presenting a more open and tolerant attitude towards the exhibits. This also helps the audience to better understand the context in which the exhibits were designed and the attitudes that the artworks themselves are intended to convey, but there is relatively little interaction with the audience and the risk of misunderstanding if there is insufficient understanding of the historical and cultural background behind them.
+## Create my own exhibition:
+Immersive experiences can be achieved through the incorporation of video or music. This can be achieved, for example, through the incorporation of digital technology and through web curation through a collection of morphological models that index conceptual exhibition forms. Visitors use web searches to translate information about exhibits, understand content, catalog and receive information from others, and better understand and visit exhibits. In Weber's Graphical Sign Systems: for example the ability to assemble a two-dimensional map by analyzing data and information presented in tabular and textual form, combining an index of social media such as Twitter with the interconnection of specific hashtags. By embodying the principles of a graphic system, form and content are linked.
+## References:
+Arsel, Z., Crockett, D., & Scott, M. L. (2022). Diversity, equity, and inclusion (DEI) in the Journal of Consumer Research: A curation and research agenda. *Journal of Consumer Research, 48*(5), 920-933.
 
+Lupfer, N., Kerne, A., Webb, A. M., & Linder, R. (2016, October). Patterns of free-form curation: Visual thinking with web content. In *Proceedings of the 24th ACM international conference on Multimedia* (pp. 12-21).
+
+
+Shapiro, B. R., & Hall, R. (2018). Personal curation in a museum. *Proceedings of the ACM on Human-Computer Interaction, 2*(CSCW), 1-22.
