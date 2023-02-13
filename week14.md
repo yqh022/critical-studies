@@ -1,0 +1,2 @@
+# critical-studies-week14
+Literacy is traditionally the ability to read and write and is a key indicator of a population's educational attainment. And over time includes not only the ability to read and write traditional texts but also the ability to understand and use new forms of communication and information technology. Literacy is an important tool for individuals to participate fully in society, access information and resources, and pursue personal and professional goals.
