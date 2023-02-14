@@ -6,7 +6,9 @@ When computer programming is referred to as literacy, it means that it is consid
 ## After reading the assigned:
 The programming system is building a new and complex cultural ecology.A section of the population once tried to make computer programming the exclusive domain of professionals, but as it stands now, computer code has gradually come to form the bulk of our contemporary communications, with our employment, health records and citizenship, once recorded only in text, now being coded into computer databases.The ubiquity of computing has meant that programming has emerged from the exclusive domain of computer science and the specialist areas that permeate it. In the age of digital technology, programming seems to be more fundamental than other digital skills known as literacy, so we can think of programming as a platform literacy.
 
-
+Programming reveals the new social practices and technologies that make up contemporary literacy, and it can show us what the complex ecology of literacy looks like. But with this comes the influence of religious ideologies, educational systems and gender dynamics, among other social forces.
+More complex and more widely distributed programming technologies in seem to put more pressure on individual literacy, raising the level of skills required for a person to be considered 'literate', which affects the literacy requirements and to some extent the implicit class divisions of some people.
+In her work on the cycle of low literacy, Victoria Purcell-Gates has shown that children growing up in environments where writing is absent and literacy is marginalised have little way of integrating literacy into their lives. If we think of coding in terms of literacy rather than occupation, these insights from literacy research suggest that we must think critically to expand the use of coding.
 
 ## reference:
 Long, D., & Magerko, B. (2020, April). What is AI literacy? Competencies and design considerations. In *Proceedings of the 2020 CHI conference on human factors in computing systems* (pp. 1-16).
