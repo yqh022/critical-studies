@@ -10,6 +10,8 @@ Programming reveals the new social practices and technologies that make up conte
 More complex and more widely distributed programming technologies in seem to put more pressure on individual literacy, raising the level of skills required for a person to be considered 'literate', which affects the literacy requirements and to some extent the implicit class divisions of some people.
 In her work on the cycle of low literacy, Victoria Purcell-Gates has shown that children growing up in environments where writing is absent and literacy is marginalised have little way of integrating literacy into their lives. If we think of coding in terms of literacy rather than occupation, these insights from literacy research suggest that we must think critically to expand the use of coding.
 
+With the development of digital literacy, issues such as the political culture brought about by online platforms have emerged, and the results of algorithmic platforms are rarely automatic, As Safiya Umoja Noble has pointed out, the reification of racial and gender bias in search results can be naturalized by algorithms, ostensibly absolving humans from blame because the "computer did it. "Issues such as power equality and discrimination also affects the human-controlled algorithms of the Internet.
+
 ## reference:
 Long, D., & Magerko, B. (2020, April). What is AI literacy? Competencies and design considerations. In *Proceedings of the 2020 CHI conference on human factors in computing systems* (pp. 1-16).
 
