@@ -11,6 +11,6 @@ The development of computational thinking has the potential to transform cultura
 
 <img width="453" alt="image" src="https://user-images.githubusercontent.com/119873931/218800252-38a9016d-bb66-44ec-93f3-74ede015e61c.png">
 
-A search for articles on the role of computational thinking in fostering creativity yielded an article on "Effective components of creativity in early childhood digital play learning: a case study" as a theoretical support for this aspect of cultural creativity. I clicked on some of the articles with a high number of citations and looked at their profiles to make a note of the articles on the topic of cultural development.
+A search for articles on the role of computational thinking in fostering creativity yielded an article on "Effective components of creativity in early childhood digital play learning: a case study" as a theoretical support for this aspect of cultural creativity. I clicked on some of the articles with a high number of citations and looked at their profiles to make a note of the articles on the topic of cultural development.When I click into some articles it will suggest some other related articles, which also provide better search directions.The search terms "cultural heritage" and "computational thinking" did not yield good results when I searched for them, which is probably not a good search direction.
 
 <img width="450" alt="image" src="https://user-images.githubusercontent.com/119873931/218800468-62a90702-70b5-4d4c-8773-44820d5bfc5c.png">
