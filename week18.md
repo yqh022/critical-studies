@@ -1,0 +1,2 @@
+# critical-studies
+weekly work
