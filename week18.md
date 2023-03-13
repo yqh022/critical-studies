@@ -1,2 +1,12 @@
-# critical-studies
-weekly work
+# critical-studies-week18
+
+This stupid AI will somehow avoid being too similar to some human behaviors, in order to prevent the Uncanny Valley effect. There is a common fear of things that are too similar to humans. People always subconsciously reject the fact that AI is more and more similar to human thinking. I understand stupid AI as a form of communication between machines and humans.
+
+A "stupid AI system" might look to humans as unscientific, unscrupulous, and deviating from the high-tech purpose for which people designed AI. A stupid AI might be able to communicate with humans. When a human asks for some high-tech knowledge, it can give the answer fluently. But when people ask it common-sense questions, it gets slower and slower at giving answers. That is, the speed at which it gives answers is inversely proportional to the difficulty of the question. When people ask such as "what color is the sun", they may not be able to answer or even appear garbled.
+
+AI can process and analyze large amounts of data quickly and accurately and has the potential to solve complex problems more effectively than humans. In many fields, AI can already accomplish some tasks that are difficult for humans to accomplish. But when AI systems make mistakes or go out of control, they can't take responsibility and control the situation like humans do. AI can only do limited reasoning and decision-making, and cannot do more complex and abstract reasoning and decision-making.
+
+
+People usually ask AI deep questions, get efficient and correct solutions, judge it to be more similar to humans, and even panic if AI will replace humans. But in practice AI often fails to understand common sense, which is based on knowledge and reasoning acquired through experience and cultural context. Commonsense knowledge tends to be informal and tacit, and it is often not taught explicitly.
+
+AI systems may struggle to generalize to new situations or make predictions that are consistent with human intuition, and in my vision of stupid AI, it is precisely this prediction that I want to amplify. Eliminating the unnerving Valley effect through AI mistakes on simple problems is precisely a few misaligned biases and mistakes that prove that AI often has an important role to play in specific domains and tasks, with the goal of providing effective assistance and support to humans in collaborative problem-solving.
